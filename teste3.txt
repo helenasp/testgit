@@ -1,1 +1,2 @@
 Para por fim terminar o ficheiro de teste 3
+A terceira e última transformação em github, para analisar no git
