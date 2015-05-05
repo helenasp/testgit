@@ -1,1 +1,2 @@
-Ol� este � o ficheiro de teste 1
+Olá este é o ficheiro de teste 1
+Bom e vamos ver se corre bem a edição de ficheiro no github para levar para o git
