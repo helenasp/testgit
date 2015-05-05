@@ -1,1 +1,2 @@
 E agora edito o ficheiro de teste 2
+É o mesmo ... alterações no github para serem transportadas para o git
