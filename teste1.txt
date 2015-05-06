@@ -1,4 +1,0 @@
-﻿Olá este é o ficheiro de teste 1
-Bom e vamos ver se corre bem a edição de ficheiro no github para levar para o git
-
-MAis um teste de commit e de push pull requests. parece que está a começar a funcionar :-)
